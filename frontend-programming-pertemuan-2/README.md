@@ -1,3 +1,4 @@
-# Frontend Programming Course
+# Tugas Frontend Programming
 
-Repository ini berisi kode untuk mata kuliah Frontend Programming 2021/2022 semester genap.
+
+Pertemuan 2
